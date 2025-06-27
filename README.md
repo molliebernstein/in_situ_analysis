@@ -25,6 +25,16 @@ Three example CSV files are provided:
   
 3. 9937_4.csv
     - Data from mouse_ID 9937, slice 4
+  
+----------------------------------------------------------------
+Example Output csvs
+------------
+
+Two example output csvs are provided: 
+
+1. insitu_results_by_mouse.csv (mouse-level results averaged across slices)
+
+2. insitu_results_all.csv (slice-level results)
    
 ----------------------------------------------------------------
 Scripts Included

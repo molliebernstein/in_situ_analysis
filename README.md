@@ -6,7 +6,7 @@ This repository contains code for quantifying cell populations and marker intens
 The main features of this code are:
 
 - **Batch processing** of QuPath CSV output files (single- or multi-channel)
-- **Automated group mapping** based on mouse/sample IDs
+- **Group mapping** based on user assigned mouse/sample IDs
 - **Counts** of cells positive for each marker or marker combination (e.g., Th, Trpc6, Th:Trpc6)
 - **Calculation of mean intensities** for each marker across all cells, Th⁺ cells, and Th⁻ cells
 - **Output of summary CSVs** at the slice and mouse level
@@ -74,3 +74,5 @@ Contact & Author
 Questions? Open an issue or pull request on GitHub.
 
 Author: Mollie Bernstein, 2025
+
+mollie.bernstein@gmail.com
